@@ -9,3 +9,7 @@ TODO List:
   3. 兩項以上的賣家指定資訊
   4. GUI化
   5. 出現意外對話框時無條件關閉等功能
+
+
+https://github.com/user-attachments/assets/96feba75-18eb-45d9-892f-04073841d6b8
+
